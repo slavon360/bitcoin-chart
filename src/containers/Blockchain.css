@@ -1,0 +1,10 @@
+.BlockchainWrp{
+  padding-top: 30px;
+  min-height: 100vh;
+  box-sizing: border-box;
+  background: linear-gradient(rgba(255,255,255,.2),rgba(255,255,255,.3)), url('../images/bitcoin.jpg');
+}
+.Title{
+  color: #eee;
+  padding-left: 30px;
+}
